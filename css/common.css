@@ -1,0 +1,13 @@
+/* 
+
+selector {
+    property: value;
+    another-property: value;
+}
+
+*/
+
+.header-banner__h1 {
+    color: red;
+    text-transform: uppercase;
+}
